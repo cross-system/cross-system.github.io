@@ -1,2 +1,3 @@
-# cross-system.github.io
-Сайт-визитка
+[logo.png]
+![screenshot](images/logo.png)
+
