@@ -19,7 +19,8 @@
 <hr>
 
 Входной консультант - Михаил Долгих
-Свяжитесь со мной - cross-system@mail.ru
+
+Свяжитесь со мной - [cross-system@mail.ru](cross-system@mail.ru)
 
 <hr>
 
